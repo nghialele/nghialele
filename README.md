@@ -1,4 +1,4 @@
-### Xin chào! My name is Nghia
+### Xin chào! My name is Nghia 🇻🇳
 
 A computer nerd, a dad. I love to write & run code, everything related to computers, F1 & WRC die hard lover.
 
