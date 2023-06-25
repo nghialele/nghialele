@@ -6,9 +6,11 @@ A coffee a day.
 - I’m currently working on:
 	- A cozy recording studio to mentoring DJ - my other hobby and part-time job.
 	- Self-hosted solutions for my data.
-- 💬 Talk to me about Music, Memes, anything that interests you.
+ 	- A Funkwhale Pod for my collective, friends, and my DJ mentee.
+- 💬 Talk to me about _programming_, _space (without X)_, _music_
 - 🌱 I’m currently pursuing **Computer Science**.
-
+- 🐘 I'm new to the **Fediverse**.
+- ⚽ **Manchester United**
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
