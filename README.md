@@ -7,7 +7,7 @@ A coffee a day.
 	- A cozy recording studio to mentoring DJ - my other hobby and part-time job.
 	- Self-hosted solutions for my data.
  	- A Funkwhale Pod for my collective, friends, and my DJ mentee.
-- 💬 Talk to me about _programming_, _space (without X)_, _music_
+- 💬 Talk to me about _programming_, _music_
 - 🌱 I’m currently pursuing **Computer Science**.
 - 🐘 I'm new to the **Fediverse**.
 - ⚽ **Manchester United**
