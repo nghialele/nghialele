@@ -1,12 +1,12 @@
 ### Xin chào! My name is Nghia 🇻🇳
 
-A computer nerd, a dad. I love to write & run code, everything related to computers, F1 & WRC die hard lover.
+A computer nerd. I love to write & run code, everything related to computers, F1 & WRC die hard lover.
 
 A coffee a day. 
 - I’m currently working on:
 	- A cozy recording studio to mentoring DJ - my other hobby and part-time job.
-	- Self-hosted solutions for my data.
- 	- A Funkwhale Pod for my collective, friends, and my DJ mentee.
+	- A personal cloud storage to back up my works.
+ 	- An online radio station :D 
 - 💬 Talk to me about _programming_, _music_
 - 🌱 I’m currently pursuing **Computer Science**.
 - 🐘 I'm new to the **Fediverse**.
@@ -17,3 +17,8 @@ A coffee a day.
    <br />
    <i>You miss 100% of the shots you don't take.</i>
 </p>
+-----
+#### These are some of the stuff I made: 
+
+- https://valhousing.radio.fm - An online radio station for my duo-DJ project called **Val Housing**. Check it out if you love House, Funk, Soulful and some clubbing tunes.
+- 🐘 <a rel="me" href="https://nghia.uk/@nghialele">Mastodon</a> (Hello!)
