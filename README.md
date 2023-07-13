@@ -21,4 +21,4 @@ A coffee a day.
 #### These are some of the stuff I made: 
 
 - https://valhousing.radio.fm - An online radio station for my duo-DJ project called **Val Housing**. Check it out if you love House, Funk, Soulful and some clubbing tunes.
-- 🐘 <a rel="me" href="https://nghia.uk/@nghialele">Mastodon</a> (Hello!)
+- 🐘 <a rel="me" href="https://mas.to/@nghialele">Mastodon</a> 
