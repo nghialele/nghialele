@@ -1,18 +1,23 @@
 ## Xin chao, my name is Nghia.
 
-### Bedroom Developer. #notaprodev
+### Bedroom Developer / Bedroom DJ.
 I am learning:
 - Networking
 - Cybersecurity
 - Docker & Homelab
 
 I do some meaningless stuff online, include:
-- Hosting 2 gameservers for DayZ players in my country for the sake of lowest latency.
-- Doing some *homelab* thingy, this is addiction, do not try.
-- Idling 3 Syncthing Relays around the world for ~~people~~ data hoarder to transfer their files.
-- Randomly select some music for a self-hosted radio channel.
+- DayZ Viet Nam Club, a *(few)* DayZ gameserver(s) for players in Viet Nam / APAC.
+- #homelab | #selfhosted
+- LET Syncthing Relays Squads | Global Ping Probes Squad
+- Randomly select some music for a self-hosted radio channel. *coming soon*
+- Impulsive buy domain names.
 
-**I follow a LET legend @yoursunny to do 5 push-ups a day.**
+Offline?
+- I am a part-time pharmacist working in my family clinic & pharmacy store.
+- I run few kilometers & play football few times a week. *(the globe one not the egg)*.
+- I watch MrBallen & Nat Geo.
+- I plant fruit trees.
 
 Fav quote:
 > docker
@@ -23,4 +28,6 @@ Fav quote:
 > 
 > -d
 
-# Have a nice day GitHub!
+# Always exciting, always procrastinating.
+
+*In 2025 I will build myself an application to manage my idlers. This is a goal.*
