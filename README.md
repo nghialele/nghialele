@@ -6,12 +6,13 @@ I am learning:
 - Cybersecurity
 - Docker & Homelab
 
-I do some meaningless stuff online, include:
+I do some stuffs online, include:
 - DayZ Viet Nam Club, a *(few)* DayZ gameserver(s) for players in Viet Nam / APAC.
 - #homelab | #selfhosted
 - LET Syncthing Relays Squads | Global Ping Probes Squad
 - Randomly select some music for a self-hosted radio channel. *coming soon*
 - Impulsive buy domain names.
+- Tech consultant for a young mental healthcare project.
 
 Offline?
 - I am a part-time pharmacist working in my family clinic & pharmacy store.
