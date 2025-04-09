@@ -7,11 +7,10 @@ I am learning:
 - Docker & Homelab
 
 I do some stuffs online, include:
-- DayZ Viet Nam Club, a *(few)* DayZ gameserver(s) for players in Viet Nam / APAC.
 - #homelab | #selfhosted
-- LET Syncthing Relays Squads | Global Ping Probes Squad
+- lowendtalk & lowend-idlers
 - Randomly select some music for a self-hosted radio channel. *coming soon*
-- Impulsive buy domain names.
+- Impulsive buy domain names, servers.
 
 Offline?
 - I am a part-time pharmacist working in my family clinic & pharmacy store.
@@ -19,15 +18,4 @@ Offline?
 - I watch MrBallen & Nat Geo.
 - I plant fruit trees.
 
-Fav quote:
-> docker
-> 
-> compose
-> 
-> up
-> 
-> -d
-
-# Always exciting, always procrastinating.
-
-*In 2025 I will build myself an application to manage my idlers. This is a goal.*
+# Life is unfair, trying to balance it.
