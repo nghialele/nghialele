@@ -6,9 +6,9 @@ i run a bunch of servers in my closet (and probably yours too)
 
 - **self-hosting everything** — because why pay for cloud when you can hear your hard drives scream from the next room
 - build simple websites & apps that work (mostly, eventually)
-- run [tor snowflake](https://snowflake.torproject.org/) proxies to help people bypass censorship. take that, great firewall
+- run tor snowflake proxies to help people bypass censorship. take that, great firewall
 - operate [syncthing relays](https://str.nghialele.dev/) so your files can find their way through the dark
-- ping random servers around the world via [globalping](https://www.globalping.io/) — helping the internet, one icmp packet at a time
+- ping random servers around the world via [globalping](https://globalping.io/users/nghialele) — helping the internet, one icmp packet at a time
 
 ### the vibes:
 
