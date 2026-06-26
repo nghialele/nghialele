@@ -1,13 +1,38 @@
-# May 2025
+## hi, i'm nghia 👋
 
-## Moved to self-hosted.
+i run a bunch of servers in my closet (and probably yours too)  
 
-This profile mostly contain my public forks & some mirrors. 
+### what i do for fun:
 
-# May 2026 updates
+- **self-hosting everything** — because why pay for cloud when you can hear your hard drives scream from the next room
+- build simple websites & apps that work (mostly, eventually)
+- run [tor snowflake](https://snowflake.torproject.org/) proxies to help people bypass censorship. take that, great firewall
+- operate [syncthing relays](https://relay.syncthing.net/) so your files can find their way through the dark
+- ping random servers around the world via [globalping](https://www.globalping.io/) — helping the internet, one icmp packet at a time
 
-AI Bros has succesfully brain-washed me, I am now vibe-coding things.
+### the vibes:
 
-Still breaking servers on a daily basis because system administrator is fun they said.
+- lowercase enthusiast. capital letters are a suggestion
+- antisocial but my servers are very social
+- i believe every home needs at least one rack-mounted server running at 65°c
+- "have you tried turning it off and on again?" is not a meme, it's a lifestyle
 
-Public some of the work here at GitHub to find meals.
+### things i run:
+
+```
+📡 tor snowflake proxies       = fight censorship
+🔄 syncthing relays             = sync all the things
+🌐 globalping probes            = y tho? ¯\_(ツ)_/¯
+🖥️ random web apps             = digital garden, lots of weeds
+📦 various docker containers   = it's turtles all the way down
+```
+
+### my setup (that i will tell you about unprompted):
+
+some old hardware running linux, probably covered in dust, consuming electricity and making my room slightly warmer. it's fine. i don't need a heater in winter anyway.
+
+### find me:
+
+- **forgejo**: [git.nghia.app/nghialele](https://git.nghia.app/nghialele)  
+- **github**: [github.com/nghialele](https://github.com/nghialele)  
+- **where i actually am**: probably staring at a terminal. don't knock, the fans will hear you
