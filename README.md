@@ -34,5 +34,6 @@ some old hardware running linux, probably covered in dust, consuming electricity
 ### find me:
 
 - **forgejo**: [git.nghia.app/nghialele](https://git.nghia.app/nghialele)  
-- **github**: [github.com/nghialele](https://github.com/nghialele)  
-- **where i actually am**: probably staring at a terminal. don't knock, the fans will hear you
+- **github**: [github.com/nghialele](https://github.com/nghialele)
+- **matrix**: [![materick contact me](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/@nghialele:matrix.guards.re)
+- **where i actually am**: probably staring at a terminal.
